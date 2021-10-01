@@ -1,6 +1,6 @@
 # README.md
 
-The data we use is originally from here: https://scikit-learn.org/stable/datasets/toy_dataset.html#boston-dataset
+The data we use is originally downloade from scikit-learn: https://scikit-learn.org/stable/datasets/toy_dataset.html#boston-dataset
 
 '''
 This is a copy of UCI ML housing dataset. https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
